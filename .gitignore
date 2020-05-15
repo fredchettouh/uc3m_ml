@@ -1,3 +1,13 @@
 #system files
 *.DS_Store
 *.ipynb_checkpoints
+*/__pycache__
+*.idea
+
+
+
+#data
+*/data
+
+#env
+/ml_uc3m
